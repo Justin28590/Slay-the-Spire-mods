@@ -1,0 +1,13 @@
+﻿{
+    "id":  "UnifiedSavePath",
+    "has_pck":  true,
+    "version":  "v1.0.3",
+    "affects_gameplay":  false,
+    "description":  "UnifiedSavePath",
+    "author":  "UnifiedSavePath",
+    "has_dll":  true,
+    "name":  "统一存档路径",
+    "dependencies":  [
+
+                     ]
+}
